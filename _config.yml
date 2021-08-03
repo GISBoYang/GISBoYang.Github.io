@@ -82,11 +82,7 @@ analytics:
 author:
   name             : "Bo Yang"
   avatar           : "profile.png"
-<<<<<<< HEAD
   bio              : "Assistant Professor at SJSU. GIScience, Remote Sensing, UAV, Human-environment Interaction, and Citizen Science"
-=======
-  bio              : "Post-doctoral Research Scholar at UCF. Assistant Professor of GIScience at San José State University GIScience, Remote Sensing, UAV, Human-environment Interaction, Machine Learning, and Citizen Science"
->>>>>>> parent of 191ef83 (Revert "Update _config.yml")
   location         : "San Jose, CA"
   email            : "Bo.Yang02@sjsu.edu"
   employer         : 
