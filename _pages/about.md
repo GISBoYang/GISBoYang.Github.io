@@ -9,30 +9,26 @@ redirect_from:
 ---
  <img align="center"  src="/images/DJI_0894.JPG">
  
-Yang's GIS page aims to share research progress and resources of Geographical Information Science (GIS), Remote Sensing, and Environmental Science. 
+Dr. Bo Yang is an Assistant Professor of GIS in the Department of Urban and Regional Planning at San José State University. Yang's GIS page aims to share research progress and resources of Geographical Information Science (GIS), Remote Sensing, and Environmental Science. 
 
-**News:** *Bo Yang will be starting as an Assistant Professor in the [Department of Urban & Regional Planning](https://www.sjsu.edu/urbanplanning/) at San Jose State University in Fall 2021.*
+Yang have interdisciplinary education background with a B.S. degree in Applied Mathematics, an M.S. in Computer Science. I received my Ph.D. in Geography advised by Dr. Hongxing Liu at University of Cincinnati (UC). My research interests are: **_GIScience, Unmanned Aerial Vehicle (UAV), Remote Sensing, Human-environment Interactions, and Citizen Science_**. 
 
-I am a post-doctoral research scholar in [Citizen Science GIS](https://www.citizensciencegis.org/) group at University of Central Florida (UCF). I work with [Dr. Timothy Hawthorne](https://sciences.ucf.edu/sociology/person/timothy-hawthorne/) co-leading an NSF collaborative coastal mapping project supports. This [project](https://gis-yang.github.io//Projects/) is one of the earliest attempts to employ UAV remote sensing in coastal management and conservation across 23 degrees of latitude. 
+I work with [Dr. Timothy Hawthorne](https://sciences.ucf.edu/sociology/person/timothy-hawthorne/) co-leading an NSF&Smithsonian collaborative coastal mapping project. This [project](https://gis-yang.github.io//Projects/) is one of the earliest attempts to employ UAV remote sensing in coastal management and conservation across 23 degrees of latitude. 
 
-I have interdisciplinary education background with a B.S. degree in Applied Mathematics, an M.S. in Computer Science. I received my Ph.D. in Geography advised by Dr. Hongxing Liu at University of Cincinnati (UC). My research interests are: **_GIScience, Remote Sensing, Spatial Statistics, Unmanned Aerial Vehicle (UAV), Human-environment Interactions, and Citizen Science_**. 
-
-For my doctoral dissertation, I developed and implemented a new geo-statistical ([ST-Cokriging](https://doi.org/10.1016/j.rse.2020.112190)) method to assimilate multi-scale data for forecasting and hindcasting spatio-temporal environmental & societal processes, such as urban heat island effects measured with remote sensing. Compared with previous data assimilation algorithms, this machine learning method is more accurate with its additional capabilities in filling missing data and uncertainty estimates. 
+The other part of my research focuses on spatial statistics and machine learning algortihm. I developed and implemented a new geo-statistical ([ST-Cokriging](https://doi.org/10.1016/j.rse.2020.112190)) method to assimilate multi-scale data for forecasting and hindcasting spatio-temporal environmental & societal processes, such as urban heat island effects measured with remote sensing. Compared with previous data assimilation algorithms, this machine learning method is more accurate with its additional capabilities in filling missing data and uncertainty estimates. 
 
 I am an FAA part 107 remote pilot maintaining an open-access UAV/drone [training course](https://gis-yang.github.io/DroneMapping/) for coastal UAV mapping. Besides of doing research and teaching, I like fiddling with tech gadgets and playing basketball. 
 
 Pronouns: he/him/his 
 
-[*Yang's Curriculum Vitae*](https://docs.google.com/document/d/1nT3W5MqYg02pN3GBTEk82azSgIICLYM18z3yoXPlEDU/edit?usp=sharing)
-
 
 
 **Contact:**\
 Bo Yang\
-[Bo.Yang[a]ucf.edu](Bo.Yang@ucf.edu) \
-(407) 823-4192\
-4297 Andromeda Loop, Orlando, FL 32816\
-University of Central Florida
+[Bo.Yang02[a]SJSU.edu](Bo.Yang02@SJSU.edu) \
+408-924-5882\
+Washington Square Hall, San José, CA 95192\
+San José State University 
 
 
 {% if author.googlescholar %}
