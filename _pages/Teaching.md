@@ -5,10 +5,6 @@ permalink: /Teaching/
 author_profile: True
 ---
 
-## [Open-access drone mapping course](https://gis-yang.github.io/DroneMapping/)
-![image](/images/dronetraining.jpg){:height="220px" width="220px"}{: style="float: left"}
-I maintain an open-access drone mapping training course, which designed to use drones to collect remote sensing data for coastal mapping and seagrass conservation. We create this training course for research partners and broader communities to learn how to fly drones, and perform data processing in Geographical Information Science (GIS) method. This training course contains topics of flying drones, coastal mapping principles, safety guides, preflight and planning, FAA part 107 examination, drone image stitching software, geographical fieldwork principles, and GIS based drone image analyses. 
-
 ## University of Central Florida
 
 ### SYA6458 Advanced Topics of GIS in Society (2021Spring)
