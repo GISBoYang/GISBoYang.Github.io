@@ -23,7 +23,7 @@ Pronouns: he/him/his
 
 **Contact:**\
 Bo Yang\
-[Bo.Yang02[a]SJSU.edu](Bo.Yang02@SJSU.edu) \
+[Bo.Yang02[a]SJSU.edu](mailto:Bo.Yang02@SJSU.edu) \
 408-924-5882\
 Washington Square Hall, San José, CA 95192\
 San José State University 
